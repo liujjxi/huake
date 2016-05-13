@@ -1,0 +1,48 @@
+body {
+  position: relative;
+}
+body header #menu li span {
+  visibility: hidden;
+}
+body header #menu li.active span,
+body header #menu li:hover span {
+  visibility: visible;
+}
+body .container {
+  left: 0;
+  right: 0;
+  width: auto;
+}
+body .container #section1 .img-wraper div,
+body .container #section1 #logo,
+body .container #section1 .logoBox {
+  display: none;
+}
+body .container #section1 #logo-ie8 {
+  display: block;
+}
+body .container #section1 #s1_2 .row #s1_txt h3 {
+  margin-top: -6em;
+}
+body .container #section1 #s1_2 .row #s1_2_img {
+  top: -300px;
+}
+body .container #section2 #ad #s2_t h4 {
+  display: none;
+}
+body .container #section2 #ad #s2_t h4.cur {
+  display: block;
+}
+body .container #section2 #s2_2 .row {
+  position: relative;
+  top: -60%;
+}
+body .container #section2 #s2_2 #s2_2_img {
+  top: -50%;
+}
+body .container #section4 .content #newsList .info {
+  color: #000;
+}
+body .container #section4 .content #newsList .info p {
+  color: #454545;
+}

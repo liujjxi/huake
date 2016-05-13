@@ -1,0 +1,7 @@
+{
+	"news": [
+		{ "newsName":"John" , "newsContent":"Doe" }, 
+		{ "newsName":"Anna" , "newsContent":"Smith" }, 
+		{ "newsName":"Peter" , "newsContent":"Jones" }
+	]
+}
